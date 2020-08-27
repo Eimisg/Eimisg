@@ -1,16 +1,19 @@
-### Hi there 👋
+<h2 align="center">Hello there! My name I am Eimantas. 👋🤓</h2>
+<p align="center">I'm a Backend Developer from Lithuania.
+Currently doing my Bachelors in Computer science while working as Backend developor projects.
+I currently passionate about Python, Cloud solutions, Automation.
 
-<!--
-**Eimisg/Eimisg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Where I am currently working at
+- [Corner Case Technologies](https://www.cornercasetech.com/) 💼 
 
-Here are some ideas to get you started:
+### 💻 What i am currently/done working on
+- [Aggredium](https://aggredium.com)  🚀
+- [MyHelper](https://myhelper.lt/)
+- [Eduka Diary](https://dienynas.eduka.lt/)
+- Studying for AWS Solutions Architect Professional Certifcate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📫 Where to find me
+- [LinkedIn](https://www.linkedin.com/in/eimantas-genciauskas-5b7761135/) 👨💼
+
+![Eimisg's github stats](https://github-readme-stats.vercel.app/api?username=eimisg&count_private=true&theme=dracula)
