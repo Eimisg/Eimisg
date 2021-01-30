@@ -13,6 +13,12 @@ I currently passionate about Python, Cloud solutions, Automation.
 - [InformDebtor](https://www.informdebtor.com/)
 - Studying for AWS Solutions Architect Professional Certifcate
 
+### 💻 What are my favorite technolgies
+- Python
+- Django
+- Docker
+- AWS
+- AWS Cloud Development Kit
 
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/eimantas-genciauskas-5b7761135/) 👨💼
