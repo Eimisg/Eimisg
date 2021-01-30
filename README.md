@@ -1,5 +1,5 @@
-<h2 align="center">Hello there! My name I am Eimantas. 👋🤓</h2>
-<p align="center">I'm a Backend Developer from Lithuania.
+<h2 align="center">Hello there! I am Eimantas. 👋🤓</h2>
+<p align="center">I'm a Developer from Lithuania.
 Currently doing my Bachelors in Computer science and working as DevOps/Backend developer and creating awesomeprojects.
 I currently passionate about Python development, Cloud solutions, Automation, infrastructure architecture.
 
