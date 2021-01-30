@@ -1,7 +1,7 @@
 <h2 align="center">Hello there! My name I am Eimantas. 👋🤓</h2>
 <p align="center">I'm a Backend Developer from Lithuania.
-Currently doing my Bachelors in Computer science while working as Backend developor projects.
-I currently passionate about Python, Cloud solutions, Automation.
+Currently doing my Bachelors in Computer science and working as DevOps/Backend developer and creating awesomeprojects.
+I currently passionate about Python development, Cloud solutions, Automation, infrastructure architecture.
 
 ### 💼 Where I am currently working at
 - [Corner Case Technologies](https://www.cornercasetech.com/) 💼 
@@ -13,12 +13,13 @@ I currently passionate about Python, Cloud solutions, Automation.
 - [InformDebtor](https://www.informdebtor.com/)
 - Studying for AWS Solutions Architect Professional Certifcate
 
-### 💻 What are my favorite technolgies
+###  My favorite technoliges
 - Python
 - Django
 - Docker
 - AWS
 - AWS Cloud Development Kit
+- Gitlab
 
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/eimantas-genciauskas-5b7761135/) 👨💼
