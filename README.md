@@ -1,17 +1,16 @@
 <h2 align="center">Hello there! I am Eimantas. 👋🤓</h2>
 <p align="center">I'm a Developer from Lithuania.
-Currently doing my Bachelors in Computer science and working as DevOps/Backend developer and creating awesomeprojects.
+Currently working as DevOps/Backend developer and creating awesome projects.
 I currently passionate about Python development, Cloud solutions, Automation, infrastructure architecture.
 
-### 💼 Where I am currently working at
-- [Corner Case Technologies](https://www.cornercasetech.com/) 💼 
-
-### 💻 What i am currently/done working on
+### 💻 What I am done working on
 - [Aggredium](https://aggredium.com)  🚀
 - [MyHelper](https://myhelper.lt/)
 - [Eduka Diary](https://dienynas.eduka.lt/)
 - [InformDebtor](https://www.informdebtor.com/)
-- Studying for AWS Solutions Architect Professional Certifcate
+
+## Certifcation
+- AWS Solutions Architect Professional Certifcate
 
 ###  My favorite technoliges
 - Python
